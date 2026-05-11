@@ -40,6 +40,9 @@ Laravel es accesible, potente y proporciona las herramientas necesarias para cre
 - 🌐 PHP Oficial: https://www.php.net/
 - ⬇️ Descargas PHP: https://www.php.net/downloads.php
 
+## Instalación de Composer en Windows - <img src="https://getcomposer.org/img/logo-composer-transparent4.png" width="40">
+- 🌐 Composer Oficial: https://getcomposer.org/
+- ⬇️ Descargas Composer: https://getcomposer.org/download/
 
 ## 📄 Licencia
 
