@@ -36,15 +36,10 @@ Laravel es accesible, potente y proporciona las herramientas necesarias para cre
 
 ## 🚀 Empezando
 
-# Instalación de PHP en Windows
+## Instalación de PHP en Windows <img src="https://www.php.net/images/logos/new-php-logo.svg" width="40">
+- 🌐 PHP Oficial: https://www.php.net/
+- ⬇️ Descargas PHP: https://www.php.net/downloads.php
 
-## Paso 1: Entrar al sitio oficial de PHP
-
-Visita la página oficial de PHP:
-
-[https://www.php.net/](https://www.php.net/)
-
----
 
 ## 📄 Licencia
 
